@@ -1,0 +1,10 @@
+.main-product-container{
+    width: 50%;
+    margin: auto;
+
+}
+.items-container{
+    display: flex;
+ margin: 10px 0;
+ border: 1px solid black;
+}
